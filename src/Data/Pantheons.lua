@@ -19,8 +19,8 @@ return {
 			},
 			[3] = { name = "Corruptor Eedaiak",
 				mods = {
-					-- cannot_be_frozen_if_you_have_been_frozen_recently
-					[1] = { line = "You cannot be Frozen if you've been Frozen Recently", value = { 100 }, },
+					-- cannot_be_frozen
+					[1] = { line = "Cannot be Frozen", value = { 100 }, },
 				},
 			},
 			[4] = { name = "Nassar, Lion of the Seas",
